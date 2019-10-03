@@ -8,5 +8,6 @@ public class ArrayListTest {
 		strs=null;
 		System.out.println("hello world");
 		System.out.println("boy");
+		System.out.println("girl");
 	}
 }
