@@ -7,5 +7,6 @@ public class ArrayListTest {
 		List<String> strs=new ArrayList<String>();
 		strs=null;
 		System.out.println("hello world");
+		System.out.println("girl");
 	}
 }
