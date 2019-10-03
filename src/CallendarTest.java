@@ -1,20 +1,20 @@
 import java.util.Calendar;
 
 /*
- * 文件名：CallendarTest.java
- * 版权：Copyright 2007-2015 517na Tech. Co. Ltd. All Rights Reserved. 
- * 描述： CallendarTest.java
- * 修改人：dade
- * 修改时间：2015年7月31日
- * 修改内容：新增
+ * 锟侥硷拷锟斤拷锟斤拷CallendarTest.java
+ * 锟斤拷权锟斤拷Copyright 2007-2015 517na Tech. Co. Ltd. All Rights Reserved. 
+ * 锟斤拷锟斤拷锟斤拷 CallendarTest.java
+ * 锟睫革拷锟剿ｏ拷dade
+ * 锟睫革拷时锟戒：2015锟斤拷7锟斤拷31锟斤拷
+ * 锟睫革拷锟斤拷锟捷ｏ拷锟斤拷锟斤拷
  */
 
 /**
- * TODO 添加类的一句话简单描述.
+ * TODO 锟斤拷锟斤拷锟斤拷一锟戒话锟斤拷锟斤拷锟斤拷.
  * <p>
- * TODO 详细描述
+ * TODO 锟斤拷细锟斤拷锟斤拷
  * <p>
- * TODO 示例代码
+ * TODO 示锟斤拷锟斤拷锟斤拷
  * <pre>
  * </pre>
  * 
@@ -24,6 +24,7 @@ public class CallendarTest {
     public static void main(String[] args) {
         Calendar cal=Calendar.getInstance();
         cal.setTime(null);
-        System.out.println("这里还没有执行到！");
+        System.out.println("锟斤拷锟斤还没锟斤拷执锟叫碉拷锟斤拷");
+        System.out.println("master");
     }
 }
