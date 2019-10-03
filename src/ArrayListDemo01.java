@@ -33,6 +33,8 @@ public class ArrayListDemo01 {
 //            System.out.println(allList.get(i));
 //        }
         allCollection.add("hello");
+        allCollection.add("beautiful");
+
         allCollection.add("world");
         System.out.println(allCollection);
         System.out.println(allCollection.toArray());
