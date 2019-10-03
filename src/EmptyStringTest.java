@@ -8,6 +8,6 @@ public class EmptyStringTest {
         System.out.println(str2.isEmpty());
         System.out.println(str2.length());
         System.out.println(str2==null);
-        System.out.println("master");
+		System.out.println("dev");
     }
 }
